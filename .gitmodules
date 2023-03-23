@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "HazardDiff"]
+	path = HazardDiff
+	url = https://github.com/cran/HazardDiff
+	shallow = true
+	registered = true
+[submodule "R2Addhaz"]
+	path = R2Addhaz
+	url = https://github.com/cran/R2Addhaz
+	shallow = true
+	registered = true
